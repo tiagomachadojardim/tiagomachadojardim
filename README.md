@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Tiago! 😁
 
-📚 Estou cursando Análise e Desenvolvimento de Sistemas e Engenharia de Computação
+📚 Estou cursando Engenharia de Computação
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomachadojardim)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomachadojardim&show_icons=true&theme=blue-green)
