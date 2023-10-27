@@ -1,10 +1,10 @@
 👋 Olá, eu sou o Tiago! 😁
 
 📚 Estou cursando Engenharia de Computação
+<hr/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomachadojardim&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomachadojardim&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomachadojardim&langs_count=8) 
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 
 
@@ -12,8 +12,8 @@
     alt="adam-pw" /> 
   </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+<hr/>
 <h3 align="left">Minhas Conexões:</h3>
 
   <p align="left">
@@ -23,7 +23,7 @@
 </p> 
 
 
-
+<hr/>
 <h3 align="left">Linguagens e ferramentas :</h3>
 <p align="left">
       <a href="https://www.cprogramming.com/" target="_blank"
