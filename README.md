@@ -50,6 +50,12 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img
       src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/css3.svg"
       alt="css3" width="40" height="40" /> </a> 
+      <a href="https://react.dev" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/react-2.svg"
+      alt="css3" width="40" height="40" /> </a> 
+      <a href="[https://react.dev](https://www.typescriptlang.org)" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/Typescript_logo_2020.svg"
+      alt="css3" width="40" height="40" /> </a> 
 
 
 
