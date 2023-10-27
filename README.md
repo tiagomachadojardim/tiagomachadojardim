@@ -26,37 +26,23 @@
 <hr/>
 <h3 align="left">Linguagens e ferramentas :</h3>
 <p align="left">
-      <a href="https://www.cprogramming.com/" target="_blank"
-      rel="noreferrer"> <img src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/c.svg"
-      alt="c" width="40" height="40" /> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-      rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/js.svg"
-      alt="javascript" width="40" height="40" /> </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/mysql.svg"
-      alt="mysql" width="40" height="40" /> </a> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/node.svg"
-      alt="nodejs" width="40" height="40" /> </a>  
-      <a href="https://www.intel.com.br/content/www/br/pt/software/programmable/quartus-prime/overview.html" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/quartus.svg"
-      alt="quartus" width="40" height="40" /> </a>
-      <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/java.svg"
-      alt="java" width="40" height="40" /> </a> 
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/html5.svg"
-      alt="html5" width="40" height="40" /> </a> 
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/css3.svg"
-      alt="css3" width="40" height="40" /> </a> 
-      <a href="https://react.dev" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/react-2.svg"
-      alt="react" width="40" height="40" /> </a> 
-      <a href="[https://react.dev](https://www.typescriptlang.org)" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/typescript.svg"
-      alt="typescript" width="40" height="40" /> </a> 
+     
+      
+   
+    
+
+
+[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/c.svg)](https://www.cprogramming.com/)
+[![js Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![node Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/node.svg)](https://nodejs.org)
+[![java Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/java.svg)](https://www.java.com/pt-BR/)
+[![html Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/html5.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/css3.svg)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/react-2.svg)](https://react.dev)
+[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/typescript.svg)](https://react.dev](https://www.typescriptlang.org))
+
+
+
 
 
 
