@@ -38,8 +38,8 @@
 [![java Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/java.svg)](https://www.java.com/pt-BR/)
 [![html Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/html5.svg)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/css3.svg)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/react-2.svg)](https://react.dev)
-[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/typescript.svg)](https://react.dev](https://www.typescriptlang.org))
+[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/react.png)](https://react.dev)
+[![C Logo](https://github.com/tiagomachadojardim/tiagomachadojardim/blob/main/figure/typescript.png)](https://react.dev](https://www.typescriptlang.org))
 
 
 
