@@ -47,10 +47,48 @@
 
 ---
 
-<!-- Você pode adicionar essa seção futuramente se desejar -->
-<!--
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagomachadojardim&show_icons=true&theme=tokyonight)
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagomachadojardim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomachadojardim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagomachadojardim&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 💨 **PulmoFlow Platform** - SaaS para Fisioterapia Respiratória
+Plataforma completa de assinatura com gestão de planos, pagamentos e funcionalidades administrativas.
+- **Stack**: Laravel, PHP, MySQL, Blade Templates
+- **Features**: Sistema de roles, integração de pagamentos, dashboard administrativo
+- 🔗 [Repositório](https://github.com/tiagomachadojardim)
+
+### 📱 **PulmoScan & RespiroScan** - Apps Mobile de Espirometria
+Aplicativos para análise de capacidade pulmonar e fisioterapia respiratória com interface intuitiva.
+- **Stack**: Flutter, Dart, Firebase
+- **Plataformas**: Android, iOS, Windows
+- 🔗 [Repositório](https://github.com/tiagomachadojardim)
+
+### 🌐 **BienTech Landing Page**
+Website institucional da BienTech com showcase de produtos e soluções de saúde.
+- **Stack**: React, Bootstrap, React Router
+- **Features**: Carrossel de eventos, downloads de apps, planos e contato
+- 🔗 [Visite o site](https://www.bientech.com.br)
+
+### 💼 **Portfólio Pessoal**
+Portfólio moderno e responsivo com sistema de temas claro/escuro.
+- **Stack**: Next.js 15, React 19, TypeScript, Tailwind CSS
+- **Features**: Animações com Framer Motion, filtros de projetos, blog
+- 🔗 [Repositório](https://github.com/tiagomachadojardim)
+
+---
+
+## 📫 Entre em Contato
+
+Estou sempre aberto a novos projetos e colaborações na área de tecnologia da saúde!
 
