@@ -66,25 +66,32 @@
 Plataforma completa de assinatura com gestão de planos, pagamentos e funcionalidades administrativas.
 - **Stack**: Laravel, PHP, MySQL, Blade Templates
 - **Features**: Sistema de roles, integração de pagamentos, dashboard administrativo
-- 🔗 [Repositório](https://github.com/tiagomachadojardim)
+- 🔒 Projeto privado
 
-### 📱 **PulmoScan & RespiroScan** - Apps Mobile de Espirometria
-Aplicativos para análise de capacidade pulmonar e fisioterapia respiratória com interface intuitiva.
+### 🏥 **PulmoScan - Portal de Gestão & Aplicativo**
+Sistema completo de espirometria com portal administrativo Laravel e aplicativo multiplataforma Flutter.
+- **Stack**: Laravel (Portal) + Flutter (App), Firebase, MySQL
+- **Plataformas**: Web (Portal de Gestão), Android, iOS, Windows
+- **Features**: Análise de capacidade pulmonar, gestão de pacientes, relatórios clínicos
+- 🔒 Projeto privado
+
+### 📱 **RespiroScan** - App de Fisioterapia Respiratória
+Aplicativo móvel para fisioterapia respiratória com interface intuitiva e recursos clínicos avançados.
 - **Stack**: Flutter, Dart, Firebase
-- **Plataformas**: Android, iOS, Windows
-- 🔗 [Repositório](https://github.com/tiagomachadojardim)
+- **Plataformas**: Android, iOS
+- 🔒 Projeto privado
 
-### 🌐 **BienTech Landing Page**
-Website institucional da BienTech com showcase de produtos e soluções de saúde.
+### 🌐 **BienTech - Site Corporativo**
+Site completo da BienTech Saúde e Tecnologia com soluções integradas para área da saúde.
 - **Stack**: React, Bootstrap, React Router
-- **Features**: Carrossel de eventos, downloads de apps, planos e contato
+- **Features**: Showcase de produtos, área educacional, downloads, planos, eventos
 - 🔗 [Visite o site](https://www.bientech.com.br)
 
 ### 💼 **Portfólio Pessoal**
-Portfólio moderno e responsivo com sistema de temas claro/escuro.
+Portfólio moderno e responsivo com sistema de temas claro/escuro e animações suaves.
 - **Stack**: Next.js 15, React 19, TypeScript, Tailwind CSS
 - **Features**: Animações com Framer Motion, filtros de projetos, blog
-- 🔗 [Repositório](https://github.com/tiagomachadojardim)
+- 🔗 [Ver online](https://meu-portifolio-qtwy.onrender.com)
 
 ---
 

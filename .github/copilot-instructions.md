@@ -80,9 +80,11 @@ Customize with [github-readme-stats options](https://github.com/anuraghazra/gith
 
 ### Related Projects (Context Only)
 Referenced in workspace but not part of this repo:
-- **Mobile**: mano_project, pulmo_flow, respiro_scan (Flutter apps)
-- **Web**: pulmoflow-platform (Laravel SaaS), bientech-landing (React)
-- **Desktop**: pulmoscan_windows (Flutter Windows app)
+- **PulmoFlow Platform**: Laravel SaaS with subscription management (private)
+- **PulmoScan**: Laravel admin portal + Flutter multiplatform app for spirometry (private)
+- **RespiroScan**: Flutter mobile app for respiratory physiotherapy (private)
+- **BienTech Website**: React corporate site at bientech.com.br
+- **Personal Portfolio**: Next.js site deployed at meu-portifolio-qtwy.onrender.com
 
 ## Conventions
 
@@ -106,9 +108,14 @@ Each project follows this structure:
 ### [emoji] **Project Name** - Brief Description
 Detailed description with key features.
 - **Stack**: Technologies used
-- **Features/Platforms**: Key highlights
-- 🔗 [Link text](URL)
+- **Plataformas/Features**: Key highlights
+- 🔗 [Ver online](URL) OR 🔒 Projeto privado
 ```
+
+**Project Status Indicators**:
+- `🔗 [Ver online](URL)`: Public project with live demo
+- `🔗 [Visite o site](URL)`: Corporate/production website
+- `🔒 Projeto privado`: Private repository or proprietary project
 
 ## Quick Edits
 
