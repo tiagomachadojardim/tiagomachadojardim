@@ -102,6 +102,27 @@ Portfólio moderno e responsivo com sistema de temas claro/escuro e animações 
 - **Features**: Animações com Framer Motion, filtros de projetos, blog
 - 🔗 [Ver online](https://meu-portifolio-qtwy.onrender.com)
 
+### 🔌 **API Hub App** - Integração com 8 APIs Públicas
+Hub completo de APIs com interface unificada, tema claro/escuro e sistema de modal flutuante para detalhes.
+- **Stack**: React 19, TypeScript, Vite, Axios
+- **APIs**: Clima, Criptomoedas, Pokémon, TV Shows, Notícias, Conversor de Moedas, Livros, Diversão
+- **Features**: Service Layer pattern, custom hooks, path aliases, design responsivo
+- 🔗 [Ver repositório](https://github.com/tiagomachadojardim/api-hub-app)
+
+### 🌀 **Portal Rick and Morty** - Explorador Interativo
+Portal web para explorar o universo de Rick and Morty através da API GraphQL oficial.
+- **Stack**: Vue 3, TypeScript, Vite, GraphQL
+- **Features**: 826 personagens, 126 localizações, 51 episódios, busca e filtros avançados, slideshow animado
+- **Destaque**: Internacionalização PT-BR, design imersivo, modal de detalhes
+- 🔗 [Ver repositório](https://github.com/tiagomachadojardim/portal-rick-morty)
+
+### 🎴 **Yu-Gi-Oh! Explorer** - Explorador de Cartas
+Aplicação web para buscar e explorar cartas do Yu-Gi-Oh! com informações detalhadas e preços.
+- **Stack**: React 19, TypeScript, Vite
+- **Features**: Busca fuzzy, filtros por tipo/atributo/raça, carta aleatória, modal de detalhes
+- **API**: YGOProdeck com dados completos, preços e banlist status
+- 🔗 [Ver repositório](https://github.com/tiagomachadojardim/yugioh-explorer)
+
 ---
 
 ## 📫 Entre em Contato

@@ -26,6 +26,14 @@ The README follows a structured markdown format:
 - **Tech icons**: Use [DevIcon CDN](https://cdn.jsdelivr.net/gh/devicons/devicon/) with 40x40px dimensions
 - **GitHub Stats**: Use [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) with tokyonight theme and transparent background (bg_color=0d1117)
 
+### Tech Stack Alignment
+Current tech stack reflects actual project usage:
+- **Frontend**: Flutter (mobile), React/Next.js/Vue (web)
+- **Backend**: Laravel (PHP), Node.js
+- **Styling**: Tailwind CSS, Bootstrap, SASS
+- **Databases**: MySQL, PostgreSQL, Firebase
+- **Languages**: JavaScript, TypeScript, PHP, Dart, Python, C, Java
+
 ### Design Principles
 - **Professional tone**: Portuguese (pt-BR) for Brazilian audience
 - **Visual hierarchy**: Clear sections separated by horizontal rules (`---`)
@@ -85,6 +93,9 @@ Referenced in workspace but not part of this repo:
 - **RespiroScan**: Flutter mobile app for respiratory physiotherapy (private)
 - **BienTech Website**: React corporate site at bientech.com.br
 - **Personal Portfolio**: Next.js site deployed at meu-portifolio-qtwy.onrender.com
+- **API Hub App**: React 19 + TypeScript hub with 8 public API integrations (public)
+- **Portal Rick and Morty**: Vue 3 + GraphQL interactive explorer (public)
+- **Yu-Gi-Oh! Explorer**: React + TypeScript card search application (public)
 
 ## Conventions
 
