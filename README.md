@@ -32,7 +32,33 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,svelte,php,laravel,nodejs,javascript,typescript,tailwind,bootstrap,sass,html,css,mysql,postgres,firebase,vite,eslint,git,figma,gitlab,graphql,npm,vscode,prettier" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=svelte" alt="SvelteKit" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=prettier" alt="Prettier" width="40" height="40"/>
 </p>
 
 ---
