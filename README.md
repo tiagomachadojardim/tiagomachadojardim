@@ -52,8 +52,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" alt="Prettier" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,svelte,php,laravel,nodejs,javascript,typescript,tailwind,bootstrap,sass,html,css,mysql,postgres,firebase,vite,eslint,git,figma,gitlab,graphql,npm,vscode" alt="Tech stack" />
+</p>
+<a href="https://prettier.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier" height="32"/>
+</a>
 </p>
 
 ---
