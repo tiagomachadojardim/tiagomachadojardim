@@ -51,7 +51,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a>
   <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40"/></a>
-
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
   <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>
   <a href="https://gitlab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="40" height="40"/></a>
