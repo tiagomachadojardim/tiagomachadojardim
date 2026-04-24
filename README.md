@@ -1,7 +1,7 @@
 <h1 align="center">Tiago Machado Jardim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B894&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computacao+%7C+Full+Stack+Developer;CEO+e+Fundador+da+BienTech;Mobile+e+Web+com+foco+em+tecnologia+para+saude" alt="Resumo profissional" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B894&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computa%C3%A7%C3%A3o+%7C+Full+Stack+Developer;CEO+e+Fundador+da+BienTech;Mobile+e+Web+com+foco+em+tecnologia+para+sa%C3%BAde" alt="Resumo profissional" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ## Sobre Mim
 
-Engenheiro de Computacao e desenvolvedor Full Stack com experiencia em produtos digitais reais para saude.
+Engenheiro de Computação e desenvolvedor Full Stack com experiência em produtos digitais reais para saúde.
 
-- Formado em Analise e Desenvolvimento de Sistemas (UniCesumar)
-- Formado em Engenharia de Computacao (UNIPAMPA)
+- Formado em Análise e Desenvolvimento de Sistemas (UniCesumar)
+- Formado em Engenharia de Computação (UNIPAMPA)
 - CEO e Fundador da BienTech
-- Atuacao em arquitetura, desenvolvimento e entrega de plataformas SaaS, apps mobile e portais web
+- Atuação em arquitetura, desenvolvimento e entrega de plataformas SaaS, apps mobile e portais web
 
-## Conexoes
+## Conexões
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tiagojardim-tech" target="_blank">
@@ -44,7 +44,7 @@ Engenheiro de Computacao e desenvolvedor Full Stack com experiencia em produtos 
 
 ---
 
-## Stack Tecnica
+## Stack Técnica
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,vue,svelte,laravel,php,nodejs,ts,js" alt="Tecnologias principais" />
@@ -64,59 +64,59 @@ Engenheiro de Computacao e desenvolvedor Full Stack com experiencia em produtos 
   <tr>
     <td align="center" width="25%">
       <a href="https://www.bientech.com.br" target="_blank">
-        <strong>BienTech</strong><br/>
-        React, Bootstrap
+        <img src="./public/bientech-logo.png" alt="Logo BienTech" width="150" /><br/>
+        <sub>React, Bootstrap</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://vespper.com.br/" target="_blank">
-        <strong>Vespper</strong><br/>
-        React 19, TypeScript, Vite
+        <img src="./public/logo-vespper.png" alt="Logo Vespper" width="150" /><br/>
+        <sub>React 19, TypeScript, Vite</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://www.sanaretech.com.br/" target="_blank">
-        <strong>SanareTech</strong><br/>
-        React 19, TypeScript, Tailwind
+        <img src="./public/logo-sanaretech.png" alt="Logo SanareTech" width="150" /><br/>
+        <sub>React 19, TypeScript, Tailwind</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="https://pueri.sanaretech.com.br" target="_blank">
-        <strong>Pueri</strong><br/>
-        Laravel 12, PHP 8.2, Vite
+        <img src="./public/logo-pueri.png" alt="Logo Pueri" width="105" /><br/>
+        <sub>Laravel 12, PHP 8.2, Vite</sub>
       </a>
     </td>
   </tr>
 </table>
 
-### Repositorios publicos (curadoria)
+### Repositórios públicos (curadoria)
 
-| Projeto | Destaque | Tecnologias | Repositorio |
+| Projeto | Destaque | Tecnologias | Repositório |
 | --- | --- | --- | --- |
-| API Hub App | Integracao de APIs publicas com arquitetura em service layer e UX consistente. | React, TypeScript, Vite, Axios | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/api-hub-app) |
+| API Hub App | Integração de APIs públicas com arquitetura em service layer e UX consistente. | React, TypeScript, Vite, Axios | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/api-hub-app) |
 | Portal Rick and Morty | Explorador com busca, filtros e detalhes usando GraphQL. | Vue 3, TypeScript, GraphQL | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/portal-rick-morty) |
-| MTG Explorer | Busca e navegacao interativa de cartas com filtros avancados. | SvelteKit, TypeScript, Tailwind | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/mtg-explorer) |
+| MTG Explorer | Busca e navegação interativa de cartas com filtros avançados. | SvelteKit, TypeScript, Tailwind | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/mtg-explorer) |
 | Yu-Gi-Oh! Explorer | Explorador de cartas com filtros, atributos e visual detalhado. | React, TypeScript, Vite | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/yugioh-explorer) |
 
 <details>
-  <summary>Produtos proprietarios (resumo)</summary>
+  <summary>Produtos proprietários (resumo)</summary>
 
-- PulmoFlow Platform: SaaS para fisioterapia respiratoria com gestao de assinaturas e painel administrativo
+- PulmoFlow Platform: SaaS para fisioterapia respiratória com gestão de assinaturas e painel administrativo
 - PulmoScan: ecossistema de espirometria com portal web e app multiplataforma
-- RespiroScan: aplicativo para fisioterapia respiratoria com foco clinico
+- RespiroScan: aplicativo para fisioterapia respiratória com foco clínico
 - Pueri: sistema para pediatria dentro do ecossistema SanareTech
 </details>
 
 ---
 
-## Estatisticas GitHub
+## Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagomachadojardim&theme=tokyonight" alt="Resumo do Perfil" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagomachadojardim&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00B894&point=38bdae&area=true" alt="Grafico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagomachadojardim&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00B894&point=38bdae&area=true" alt="Gráfico de Atividade" />
 </p>
 
 <table align="center">
@@ -131,4 +131,4 @@ Engenheiro de Computacao e desenvolvedor Full Stack com experiencia em produtos 
 
 ## Contato
 
-Se voce estiver recrutando para vagas de Full Stack, Mobile, Web ou lideranca tecnica, vamos conversar nos canais acima.
+Se você estiver recrutando para vagas de Full Stack, Mobile, Web ou liderança técnica, vamos conversar nos canais acima.
