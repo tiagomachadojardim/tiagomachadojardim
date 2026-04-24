@@ -58,66 +58,77 @@ Engenheiro de Computacao e desenvolvedor Full Stack com experiencia em produtos 
 
 ## Projetos em Destaque
 
-### Produtos proprietarios
+### Plataformas e produtos
 
-- PulmoFlow Platform: SaaS para fisioterapia respiratoria com gestao de assinatura, controle de acesso e painel administrativo
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.bientech.com.br" target="_blank">
+        <strong>BienTech</strong><br/>
+        React, Bootstrap
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://vespper.com.br/" target="_blank">
+        <strong>Vespper</strong><br/>
+        React 19, TypeScript, Vite
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.sanaretech.com.br/" target="_blank">
+        <strong>SanareTech</strong><br/>
+        React 19, TypeScript, Tailwind
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pueri.sanaretech.com.br" target="_blank">
+        <strong>Pueri</strong><br/>
+        Laravel 12, PHP 8.2, Vite
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Repositorios publicos (curadoria)
+
+| Projeto | Destaque | Tecnologias | Repositorio |
+| --- | --- | --- | --- |
+| API Hub App | Integracao de APIs publicas com arquitetura em service layer e UX consistente. | React, TypeScript, Vite, Axios | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/api-hub-app) |
+| Portal Rick and Morty | Explorador com busca, filtros e detalhes usando GraphQL. | Vue 3, TypeScript, GraphQL | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/portal-rick-morty) |
+| MTG Explorer | Busca e navegacao interativa de cartas com filtros avancados. | SvelteKit, TypeScript, Tailwind | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/mtg-explorer) |
+| Yu-Gi-Oh! Explorer | Explorador de cartas com filtros, atributos e visual detalhado. | React, TypeScript, Vite | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagomachadojardim/yugioh-explorer) |
+
+<details>
+  <summary>Produtos proprietarios (resumo)</summary>
+
+- PulmoFlow Platform: SaaS para fisioterapia respiratoria com gestao de assinaturas e painel administrativo
 - PulmoScan: ecossistema de espirometria com portal web e app multiplataforma
 - RespiroScan: aplicativo para fisioterapia respiratoria com foco clinico
 - Pueri: sistema para pediatria dentro do ecossistema SanareTech
-
-### Projetos online
-
-- BienTech: https://www.bientech.com.br
-- Vespper: https://vespper.com.br/
-- SanareTech: https://www.sanaretech.com.br/
-- Pueri: https://pueri.sanaretech.com.br
-
-### Repositorios publicos selecionados
-
-<p align="center">
-  <a href="https://github.com/tiagomachadojardim/api-hub-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagomachadojardim&repo=api-hub-app&theme=tokyonight&hide_border=true" alt="API Hub App" />
-  </a>
-  <a href="https://github.com/tiagomachadojardim/portal-rick-morty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagomachadojardim&repo=portal-rick-morty&theme=tokyonight&hide_border=true" alt="Portal Rick and Morty" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tiagomachadojardim/mtg-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagomachadojardim&repo=mtg-explorer&theme=tokyonight&hide_border=true" alt="MTG Explorer" />
-  </a>
-  <a href="https://github.com/tiagomachadojardim/yugioh-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tiagomachadojardim&repo=yugioh-explorer&theme=tokyonight&hide_border=true" alt="Yu-Gi-Oh Explorer" />
-  </a>
-</p>
+</details>
 
 ---
 
 ## Estatisticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagomachadojardim&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomachadojardim&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiagomachadojardim&locale=pt_BR&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=tiagomachadojardim&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagomachadojardim&theme=tokyonight" alt="Resumo do Perfil" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagomachadojardim&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00B894&point=38bdae&area=true" alt="Grafico de Atividade" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://trophy.ryglcloud.net/?username=tiagomachadojardim&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&margin-w=12&title=Experience,Commits,Repositories,Followers,Stars,MultiLanguage&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Contato
 
-Se voce estiver recrutando para vagas de Full Stack, Mobile, Web ou lideranca tecnica, vamos conversar.
-
-- Email: tiagomachadojardim@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tiagojardim-tech
+Se voce estiver recrutando para vagas de Full Stack, Mobile, Web ou lideranca tecnica, vamos conversar nos canais acima.
